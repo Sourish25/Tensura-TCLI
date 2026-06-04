@@ -1,0 +1,100 @@
+:root {
+  --bg-color: #000000;
+  --text-primary: #33ff33; /* Phosphor Green */
+  --text-secondary: #aaaaaa; /* Off-White for body text */
+  --text-muted: #555555; /* Dark Gray for secondary details */
+  --border-color: #333333; /* Dark Gray borders */
+  --font-mono: 'Courier New', Courier, Monaco, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  color: var(--text-secondary);
+  font-family: var(--font-mono);
+  font-size: 14px;
+  line-height: 1.5;
+  overflow: hidden;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Custom Scrollbar for Terminal */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-color);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-primary);
+}
+
+/* Monospace alignment helpers */
+.mono {
+  font-family: var(--font-mono);
+}
+
+.green {
+  color: var(--text-primary);
+}
+
+.white {
+  color: #ffffff;
+}
+
+.gray {
+  color: var(--text-muted);
+}
+
+/* Strip standard button styles for terminal options */
+button {
+  background: transparent;
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  font-family: var(--font-mono);
+  font-size: 14px;
+  padding: 4px 12px;
+  cursor: pointer;
+  outline: none;
+  transition: none;
+}
+
+button:hover:not(:disabled) {
+  background: var(--text-primary);
+  color: var(--bg-color);
+  border-color: var(--text-primary);
+}
+
+button:disabled {
+  color: var(--text-muted);
+  border-color: var(--border-color);
+  cursor: not-allowed;
+}
+
+input {
+  background: transparent;
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  font-family: var(--font-mono);
+  font-size: 14px;
+  padding: 4px 8px;
+  outline: none;
+}
+
+input:focus {
+  border-color: var(--text-primary);
+}

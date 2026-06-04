@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+game/node_modules/
+
+# Production builds
+dist/
+game/dist/
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+.gemini/
+
+# Reference materials
+EPUB/

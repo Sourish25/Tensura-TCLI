@@ -1,0 +1,6 @@
+# Disable delta compression for large binary files
+*.epub -delta
+*.zip -delta
+*.png -delta
+*.jpg -delta
+*.svg -delta

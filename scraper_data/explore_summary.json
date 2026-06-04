@@ -1,0 +1,1433 @@
+{
+    "Category:Skills": {
+        "total_count": 4,
+        "subcategories": [
+            {
+                "pageid": 27065,
+                "ns": 14,
+                "title": "Category:Game Original Skills"
+            },
+            {
+                "pageid": 29658,
+                "ns": 14,
+                "title": "Category:Skills by characteristic"
+            },
+            {
+                "pageid": 29657,
+                "ns": 14,
+                "title": "Category:Skills by type"
+            }
+        ],
+        "pages": [
+            {
+                "pageid": 4098,
+                "ns": 0,
+                "title": "Skill"
+            }
+        ]
+    },
+    "Category:Magic": {
+        "total_count": 16,
+        "subcategories": [
+            {
+                "pageid": 17419,
+                "ns": 14,
+                "title": "Category:Aspectual magic"
+            },
+            {
+                "pageid": 26458,
+                "ns": 14,
+                "title": "Category:Dark magic"
+            },
+            {
+                "pageid": 26448,
+                "ns": 14,
+                "title": "Category:Elemental magic"
+            },
+            {
+                "pageid": 30669,
+                "ns": 14,
+                "title": "Category:Game Original Magic"
+            },
+            {
+                "pageid": 22880,
+                "ns": 14,
+                "title": "Category:Holy magic"
+            },
+            {
+                "pageid": 29117,
+                "ns": 14,
+                "title": "Category:Illusion magic"
+            },
+            {
+                "pageid": 29660,
+                "ns": 14,
+                "title": "Category:Other magic"
+            },
+            {
+                "pageid": 29661,
+                "ns": 14,
+                "title": "Category:Physics magic"
+            },
+            {
+                "pageid": 28384,
+                "ns": 14,
+                "title": "Category:True Dragon magic"
+            }
+        ],
+        "pages": [
+            {
+                "pageid": 30664,
+                "ns": 0,
+                "title": "Crimson Lightning"
+            },
+            {
+                "pageid": 30667,
+                "ns": 0,
+                "title": "Devastation Storm"
+            },
+            {
+                "pageid": 30665,
+                "ns": 0,
+                "title": "Life-Exorcising Wind"
+            },
+            {
+                "pageid": 2453,
+                "ns": 0,
+                "title": "Magic"
+            },
+            {
+                "pageid": 33075,
+                "ns": 0,
+                "title": "Primitive magic"
+            },
+            {
+                "pageid": 28463,
+                "ns": 0,
+                "title": "Soul magic"
+            },
+            {
+                "pageid": 2751,
+                "ns": 0,
+                "title": "Summoning magic"
+            }
+        ]
+    },
+    "Category:Species": {
+        "total_count": 262,
+        "subcategories": [
+            {
+                "pageid": 14621,
+                "ns": 14,
+                "title": "Category:Characters by species"
+            },
+            {
+                "pageid": 30906,
+                "ns": 14,
+                "title": "Category:Spin-off Species"
+            }
+        ],
+        "pages": [
+            {
+                "pageid": 24317,
+                "ns": 0,
+                "title": "Aggressor"
+            },
+            {
+                "pageid": 18891,
+                "ns": 0,
+                "title": "Angel"
+            },
+            {
+                "pageid": 6102,
+                "ns": 0,
+                "title": "Arch doll"
+            },
+            {
+                "pageid": 3169,
+                "ns": 0,
+                "title": "Archdaemon"
+            },
+            {
+                "pageid": 18796,
+                "ns": 0,
+                "title": "Archdragon"
+            },
+            {
+                "pageid": 4287,
+                "ns": 0,
+                "title": "Armorsaurus"
+            },
+            {
+                "pageid": 24482,
+                "ns": 0,
+                "title": "Army wasp"
+            },
+            {
+                "pageid": 30217,
+                "ns": 0,
+                "title": "Artifact angel"
+            },
+            {
+                "pageid": 30218,
+                "ns": 0,
+                "title": "Artifact archangel"
+            },
+            {
+                "pageid": 30219,
+                "ns": 0,
+                "title": "Artifact evil angel"
+            },
+            {
+                "pageid": 30207,
+                "ns": 0,
+                "title": "Astral goblin"
+            },
+            {
+                "pageid": 26952,
+                "ns": 0,
+                "title": "Baffledil"
+            },
+            {
+                "pageid": 24339,
+                "ns": 0,
+                "title": "Baki"
+            },
+            {
+                "pageid": 21256,
+                "ns": 0,
+                "title": "Barghest"
+            },
+            {
+                "pageid": 26904,
+                "ns": 0,
+                "title": "Basilisk"
+            },
+            {
+                "pageid": 25944,
+                "ns": 0,
+                "title": "Battle chimera"
+            },
+            {
+                "pageid": 25931,
+                "ns": 0,
+                "title": "Beast Gnome"
+            },
+            {
+                "pageid": 26100,
+                "ns": 0,
+                "title": "Beastfolk"
+            },
+            {
+                "pageid": 12393,
+                "ns": 0,
+                "title": "Black fang"
+            },
+            {
+                "pageid": 4289,
+                "ns": 0,
+                "title": "Black spider"
+            },
+            {
+                "pageid": 27081,
+                "ns": 0,
+                "title": "Blackspell rice"
+            },
+            {
+                "pageid": 21257,
+                "ns": 0,
+                "title": "Blade tiger"
+            },
+            {
+                "pageid": 28533,
+                "ns": 0,
+                "title": "Blood boar"
+            },
+            {
+                "pageid": 26603,
+                "ns": 0,
+                "title": "Blue fang"
+            },
+            {
+                "pageid": 24659,
+                "ns": 0,
+                "title": "Bone golem"
+            },
+            {
+                "pageid": 32651,
+                "ns": 0,
+                "title": "Bug wight"
+            },
+            {
+                "pageid": 20736,
+                "ns": 0,
+                "title": "Cattledeer"
+            },
+            {
+                "pageid": 6101,
+                "ns": 0,
+                "title": "Chaos doll"
+            },
+            {
+                "pageid": 24236,
+                "ns": 0,
+                "title": "Chaos metalloid"
+            },
+            {
+                "pageid": 28388,
+                "ns": 0,
+                "title": "Chatty pixie"
+            },
+            {
+                "pageid": 28408,
+                "ns": 0,
+                "title": "Chimera"
+            },
+            {
+                "pageid": 26911,
+                "ns": 0,
+                "title": "Commanding officer"
+            },
+            {
+                "pageid": 24534,
+                "ns": 0,
+                "title": "Cryptid"
+            },
+            {
+                "pageid": 2752,
+                "ns": 0,
+                "title": "Daemon"
+            },
+            {
+                "pageid": 3168,
+                "ns": 0,
+                "title": "Daemon lord"
+            },
+            {
+                "pageid": 22918,
+                "ns": 0,
+                "title": "Dark elf"
+            },
+            {
+                "pageid": 27096,
+                "ns": 0,
+                "title": "Dark goblin"
+            },
+            {
+                "pageid": 26627,
+                "ns": 0,
+                "title": "Dead dragon"
+            },
+            {
+                "pageid": 25951,
+                "ns": 0,
+                "title": "Death dragon"
+            },
+            {
+                "pageid": 26566,
+                "ns": 0,
+                "title": "Death golem"
+            },
+            {
+                "pageid": 26556,
+                "ns": 0,
+                "title": "Death knight"
+            },
+            {
+                "pageid": 23403,
+                "ns": 0,
+                "title": "Death oni"
+            },
+            {
+                "pageid": 26557,
+                "ns": 0,
+                "title": "Death paladin"
+            },
+            {
+                "pageid": 26554,
+                "ns": 0,
+                "title": "Death spirit"
+            },
+            {
+                "pageid": 23389,
+                "ns": 0,
+                "title": "Deathman"
+            },
+            {
+                "pageid": 24335,
+                "ns": 0,
+                "title": "Demi-human"
+            },
+            {
+                "pageid": 26081,
+                "ns": 0,
+                "title": "Demi-material life-form"
+            },
+            {
+                "pageid": 25893,
+                "ns": 0,
+                "title": "Demi-spiritual life-form"
+            },
+            {
+                "pageid": 2487,
+                "ns": 0,
+                "title": "Demon slime"
+            },
+            {
+                "pageid": 24243,
+                "ns": 0,
+                "title": "Demonoid"
+            },
+            {
+                "pageid": 22262,
+                "ns": 0,
+                "title": "Devil lord"
+            },
+            {
+                "pageid": 24270,
+                "ns": 0,
+                "title": "Diable chevalier"
+            },
+            {
+                "pageid": 26474,
+                "ns": 0,
+                "title": "Digital nature"
+            },
+            {
+                "pageid": 2163,
+                "ns": 0,
+                "title": "Direwolf"
+            },
+            {
+                "pageid": 24233,
+                "ns": 0,
+                "title": "Divine beast"
+            },
+            {
+                "pageid": 24234,
+                "ns": 0,
+                "title": "Divine bird"
+            },
+            {
+                "pageid": 24229,
+                "ns": 0,
+                "title": "Divine boar"
+            },
+            {
+                "pageid": 24228,
+                "ns": 0,
+                "title": "Divine dragon"
+            },
+            {
+                "pageid": 24019,
+                "ns": 0,
+                "title": "Divine fighter"
+            },
+            {
+                "pageid": 24230,
+                "ns": 0,
+                "title": "Divine fox"
+            },
+            {
+                "pageid": 24244,
+                "ns": 0,
+                "title": "Divine human"
+            },
+            {
+                "pageid": 24232,
+                "ns": 0,
+                "title": "Divine insect"
+            },
+            {
+                "pageid": 23003,
+                "ns": 0,
+                "title": "Divine oni"
+            },
+            {
+                "pageid": 27206,
+                "ns": 0,
+                "title": "Divine wasp"
+            },
+            {
+                "pageid": 24231,
+                "ns": 0,
+                "title": "Divine wolf"
+            },
+            {
+                "pageid": 24245,
+                "ns": 0,
+                "title": "Divinity"
+            },
+            {
+                "pageid": 2706,
+                "ns": 0,
+                "title": "Dragon"
+            },
+            {
+                "pageid": 18795,
+                "ns": 0,
+                "title": "Dragon lord"
+            },
+            {
+                "pageid": 26841,
+                "ns": 0,
+                "title": "Dragon majin"
+            },
+            {
+                "pageid": 33006,
+                "ns": 0,
+                "title": "Dragon oni"
+            },
+            {
+                "pageid": 25970,
+                "ns": 0,
+                "title": "Dragon zombie"
+            },
+            {
+                "pageid": 2151,
+                "ns": 0,
+                "title": "Dragonewt"
+            },
+            {
+                "pageid": 4171,
+                "ns": 0,
+                "title": "Dragonoid"
+            },
+            {
+                "pageid": 2158,
+                "ns": 0,
+                "title": "Dryad"
+            },
+            {
+                "pageid": 2159,
+                "ns": 0,
+                "title": "Dwarf"
+            },
+            {
+                "pageid": 25948,
+                "ns": 0,
+                "title": "Earth dragon"
+            },
+            {
+                "pageid": 25964,
+                "ns": 0,
+                "title": "Earth dragon lord"
+            },
+            {
+                "pageid": 26620,
+                "ns": 0,
+                "title": "Element dragon"
+            },
+            {
+                "pageid": 18890,
+                "ns": 0,
+                "title": "Elemental"
+            },
+            {
+                "pageid": 24258,
+                "ns": 0,
+                "title": "Elemental lord"
+            },
+            {
+                "pageid": 28478,
+                "ns": 0,
+                "title": "Elemental lord of flame"
+            },
+            {
+                "pageid": 28479,
+                "ns": 0,
+                "title": "Elemental lord of land"
+            },
+            {
+                "pageid": 28480,
+                "ns": 0,
+                "title": "Elemental lord of wind"
+            },
+            {
+                "pageid": 26520,
+                "ns": 0,
+                "title": "Elemental of darkness"
+            },
+            {
+                "pageid": 2417,
+                "ns": 0,
+                "title": "Elemental of light"
+            },
+            {
+                "pageid": 28481,
+                "ns": 0,
+                "title": "Elemental-demonic lord"
+            },
+            {
+                "pageid": 2823,
+                "ns": 0,
+                "title": "Elf"
+            },
+            {
+                "pageid": 25468,
+                "ns": 0,
+                "title": "Enki"
+            },
+            {
+                "pageid": 3866,
+                "ns": 0,
+                "title": "Enlightened"
+            },
+            {
+                "pageid": 30903,
+                "ns": 0,
+                "title": "Enroki"
+            },
+            {
+                "pageid": 2748,
+                "ns": 0,
+                "title": "Evil centipede"
+            },
+            {
+                "pageid": 27139,
+                "ns": 0,
+                "title": "Evil dragon beast"
+            },
+            {
+                "pageid": 29213,
+                "ns": 0,
+                "title": "Evil goblin"
+            },
+            {
+                "pageid": 22782,
+                "ns": 0,
+                "title": "Fairy"
+            },
+            {
+                "pageid": 22623,
+                "ns": 0,
+                "title": "Fallen"
+            },
+            {
+                "pageid": 30693,
+                "ns": 0,
+                "title": "Fascinator elf"
+            },
+            {
+                "pageid": 26909,
+                "ns": 0,
+                "title": "Field officer"
+            },
+            {
+                "pageid": 25947,
+                "ns": 0,
+                "title": "Fire dragon"
+            },
+            {
+                "pageid": 25965,
+                "ns": 0,
+                "title": "Fire dragon lord"
+            },
+            {
+                "pageid": 24266,
+                "ns": 0,
+                "title": "Flame lord"
+            },
+            {
+                "pageid": 28748,
+                "ns": 0,
+                "title": "Forest wolf"
+            },
+            {
+                "pageid": 25963,
+                "ns": 0,
+                "title": "Gehenna dragon"
+            },
+            {
+                "pageid": 29261,
+                "ns": 0,
+                "title": "Gehenna moth"
+            },
+            {
+                "pageid": 25167,
+                "ns": 0,
+                "title": "General"
+            },
+            {
+                "pageid": 26565,
+                "ns": 0,
+                "title": "Ghost"
+            },
+            {
+                "pageid": 4061,
+                "ns": 0,
+                "title": "Giant"
+            },
+            {
+                "pageid": 29977,
+                "ns": 0,
+                "title": "Giant ant"
+            },
+            {
+                "pageid": 4286,
+                "ns": 0,
+                "title": "Giant bat"
+            },
+            {
+                "pageid": 20786,
+                "ns": 0,
+                "title": "Giant bear"
+            },
+            {
+                "pageid": 2173,
+                "ns": 0,
+                "title": "Goblin"
+            },
+            {
+                "pageid": 22269,
+                "ns": 0,
+                "title": "Goblina"
+            },
+            {
+                "pageid": 24484,
+                "ns": 0,
+                "title": "Golem"
+            },
+            {
+                "pageid": 2809,
+                "ns": 0,
+                "title": "Gozu"
+            },
+            {
+                "pageid": 21184,
+                "ns": 0,
+                "title": "Grave lizard"
+            },
+            {
+                "pageid": 2715,
+                "ns": 0,
+                "title": "Greater daemon"
+            },
+            {
+                "pageid": 24263,
+                "ns": 0,
+                "title": "Greater elemental"
+            },
+            {
+                "pageid": 26604,
+                "ns": 0,
+                "title": "Green fang"
+            },
+            {
+                "pageid": 25952,
+                "ns": 0,
+                "title": "Ground-dwelling dragon"
+            },
+            {
+                "pageid": 24821,
+                "ns": 0,
+                "title": "Guitar wolf"
+            },
+            {
+                "pageid": 3873,
+                "ns": 0,
+                "title": "Gyuuki"
+            },
+            {
+                "pageid": 21476,
+                "ns": 0,
+                "title": "Halfling"
+            },
+            {
+                "pageid": 2207,
+                "ns": 0,
+                "title": "Harpy"
+            },
+            {
+                "pageid": 26570,
+                "ns": 0,
+                "title": "Heavy living armor"
+            },
+            {
+                "pageid": 2214,
+                "ns": 0,
+                "title": "Hell moth"
+            },
+            {
+                "pageid": 24207,
+                "ns": 0,
+                "title": "High blood"
+            },
+            {
+                "pageid": 25469,
+                "ns": 0,
+                "title": "High dwarf"
+            },
+            {
+                "pageid": 24333,
+                "ns": 0,
+                "title": "High elf"
+            },
+            {
+                "pageid": 24214,
+                "ns": 0,
+                "title": "High human"
+            },
+            {
+                "pageid": 2695,
+                "ns": 0,
+                "title": "High orc"
+            },
+            {
+                "pageid": 18829,
+                "ns": 0,
+                "title": "Hipokute grass"
+            },
+            {
+                "pageid": 2174,
+                "ns": 0,
+                "title": "Hobgoblin"
+            },
+            {
+                "pageid": 26549,
+                "ns": 0,
+                "title": "Holy spirit of light"
+            },
+            {
+                "pageid": 26005,
+                "ns": 0,
+                "title": "Homunculus"
+            },
+            {
+                "pageid": 21240,
+                "ns": 0,
+                "title": "Horn bear"
+            },
+            {
+                "pageid": 21186,
+                "ns": 0,
+                "title": "Horn rabbit"
+            },
+            {
+                "pageid": 17182,
+                "ns": 0,
+                "title": "Human"
+            },
+            {
+                "pageid": 25949,
+                "ns": 0,
+                "title": "Ice dragon"
+            },
+            {
+                "pageid": 25966,
+                "ns": 0,
+                "title": "Ice dragon lord"
+            },
+            {
+                "pageid": 16700,
+                "ns": 0,
+                "title": "Ifrit"
+            },
+            {
+                "pageid": 27343,
+                "ns": 0,
+                "title": "Imitation slime"
+            },
+            {
+                "pageid": 24487,
+                "ns": 0,
+                "title": "Insect"
+            },
+            {
+                "pageid": 19515,
+                "ns": 0,
+                "title": "Insectar"
+            },
+            {
+                "pageid": 26096,
+                "ns": 0,
+                "title": "Insectoid"
+            },
+            {
+                "pageid": 26567,
+                "ns": 0,
+                "title": "Iron golem"
+            },
+            {
+                "pageid": 24823,
+                "ns": 0,
+                "title": "Jinfrit"
+            },
+            {
+                "pageid": 25320,
+                "ns": 0,
+                "title": "Kaleido sky"
+            },
+            {
+                "pageid": 2140,
+                "ns": 0,
+                "title": "Kijin"
+            },
+            {
+                "pageid": 21182,
+                "ns": 0,
+                "title": "King crawler"
+            },
+            {
+                "pageid": 18549,
+                "ns": 0,
+                "title": "Knight spider"
+            },
+            {
+                "pageid": 21475,
+                "ns": 0,
+                "title": "Kobold"
+            },
+            {
+                "pageid": 20788,
+                "ns": 0,
+                "title": "Landfish"
+            },
+            {
+                "pageid": 20831,
+                "ns": 0,
+                "title": "Leech lizard"
+            },
+            {
+                "pageid": 2342,
+                "ns": 0,
+                "title": "Lesser daemon"
+            },
+            {
+                "pageid": 24540,
+                "ns": 0,
+                "title": "Lesser dragon"
+            },
+            {
+                "pageid": 24271,
+                "ns": 0,
+                "title": "Lesser elemental"
+            },
+            {
+                "pageid": 26910,
+                "ns": 0,
+                "title": "Lieutenant officer"
+            },
+            {
+                "pageid": 26569,
+                "ns": 0,
+                "title": "Living armor"
+            },
+            {
+                "pageid": 2188,
+                "ns": 0,
+                "title": "Lizardman"
+            },
+            {
+                "pageid": 27097,
+                "ns": 0,
+                "title": "Lorelei"
+            },
+            {
+                "pageid": 2234,
+                "ns": 0,
+                "title": "Lycanthrope"
+            },
+            {
+                "pageid": 26078,
+                "ns": 0,
+                "title": "Magic beast"
+            },
+            {
+                "pageid": 4404,
+                "ns": 0,
+                "title": "Majin"
+            },
+            {
+                "pageid": 24022,
+                "ns": 0,
+                "title": "Manas"
+            },
+            {
+                "pageid": 30649,
+                "ns": 0,
+                "title": "Masquerade sky"
+            },
+            {
+                "pageid": 26901,
+                "ns": 0,
+                "title": "Medium dragon"
+            },
+            {
+                "pageid": 24265,
+                "ns": 0,
+                "title": "Medium elemental"
+            },
+            {
+                "pageid": 26672,
+                "ns": 0,
+                "title": "Megalodon"
+            },
+            {
+                "pageid": 21187,
+                "ns": 0,
+                "title": "Merfolk"
+            },
+            {
+                "pageid": 24241,
+                "ns": 0,
+                "title": "Metal daemon"
+            },
+            {
+                "pageid": 2810,
+                "ns": 0,
+                "title": "Mezu"
+            },
+            {
+                "pageid": 24853,
+                "ns": 0,
+                "title": "Mirror empress"
+            },
+            {
+                "pageid": 24852,
+                "ns": 0,
+                "title": "Mirror lilith"
+            },
+            {
+                "pageid": 13807,
+                "ns": 0,
+                "title": "Monster"
+            },
+            {
+                "pageid": 24173,
+                "ns": 0,
+                "title": "Mystic angel"
+            },
+            {
+                "pageid": 26611,
+                "ns": 0,
+                "title": "Mystic fox"
+            },
+            {
+                "pageid": 25840,
+                "ns": 0,
+                "title": "Night stalker"
+            },
+            {
+                "pageid": 24536,
+                "ns": 0,
+                "title": "Ninehead"
+            },
+            {
+                "pageid": 24537,
+                "ns": 0,
+                "title": "Ninetail"
+            },
+            {
+                "pageid": 2219,
+                "ns": 0,
+                "title": "Ogre"
+            },
+            {
+                "pageid": 28704,
+                "ns": 0,
+                "title": "Ogre bear"
+            },
+            {
+                "pageid": 27038,
+                "ns": 0,
+                "title": "Okami"
+            },
+            {
+                "pageid": 20790,
+                "ns": 0,
+                "title": "One-eyed owl"
+            },
+            {
+                "pageid": 2740,
+                "ns": 0,
+                "title": "Oni"
+            },
+            {
+                "pageid": 2203,
+                "ns": 0,
+                "title": "Orc"
+            },
+            {
+                "pageid": 24829,
+                "ns": 0,
+                "title": "Orc desert"
+            },
+            {
+                "pageid": 3551,
+                "ns": 0,
+                "title": "Orc Disaster"
+            },
+            {
+                "pageid": 3611,
+                "ns": 0,
+                "title": "Orc Lord"
+            },
+            {
+                "pageid": 32367,
+                "ns": 0,
+                "title": "Phantasm"
+            },
+            {
+                "pageid": 30672,
+                "ns": 0,
+                "title": "Phantaspore"
+            },
+            {
+                "pageid": 17282,
+                "ns": 0,
+                "title": "Phantom"
+            },
+            {
+                "pageid": 25735,
+                "ns": 0,
+                "title": "Pixie"
+            },
+            {
+                "pageid": 32650,
+                "ns": 0,
+                "title": "Powder cercaria"
+            },
+            {
+                "pageid": 25458,
+                "ns": 0,
+                "title": "Queen wasp"
+            },
+            {
+                "pageid": 21429,
+                "ns": 0,
+                "title": "Rabbitfolk"
+            },
+            {
+                "pageid": 26602,
+                "ns": 0,
+                "title": "Red fang"
+            },
+            {
+                "pageid": 3867,
+                "ns": 0,
+                "title": "Saint"
+            },
+            {
+                "pageid": 25929,
+                "ns": 0,
+                "title": "Salamander"
+            },
+            {
+                "pageid": 29262,
+                "ns": 0,
+                "title": "Sea beast"
+            },
+            {
+                "pageid": 24247,
+                "ns": 0,
+                "title": "Seraph"
+            },
+            {
+                "pageid": 27216,
+                "ns": 0,
+                "title": "Serpent slime"
+            },
+            {
+                "pageid": 30658,
+                "ns": 0,
+                "title": "Serpent zinnia slime"
+            },
+            {
+                "pageid": 27332,
+                "ns": 0,
+                "title": "Shadow"
+            },
+            {
+                "pageid": 25470,
+                "ns": 0,
+                "title": "Siren"
+            },
+            {
+                "pageid": 20781,
+                "ns": 0,
+                "title": "Sissie"
+            },
+            {
+                "pageid": 26553,
+                "ns": 0,
+                "title": "Skeleton"
+            },
+            {
+                "pageid": 26555,
+                "ns": 0,
+                "title": "Skeleton swordsman"
+            },
+            {
+                "pageid": 25945,
+                "ns": 0,
+                "title": "Sky dragon"
+            },
+            {
+                "pageid": 2489,
+                "ns": 0,
+                "title": "Slime"
+            },
+            {
+                "pageid": 26912,
+                "ns": 0,
+                "title": "Soldier"
+            },
+            {
+                "pageid": 26617,
+                "ns": 0,
+                "title": "Soul beast"
+            },
+            {
+                "pageid": 26465,
+                "ns": 0,
+                "title": "Soul bird"
+            },
+            {
+                "pageid": 26837,
+                "ns": 0,
+                "title": "Soul boar"
+            },
+            {
+                "pageid": 26836,
+                "ns": 0,
+                "title": "Soul dragon"
+            },
+            {
+                "pageid": 26840,
+                "ns": 0,
+                "title": "Soul insect"
+            },
+            {
+                "pageid": 24239,
+                "ns": 0,
+                "title": "Soul man"
+            },
+            {
+                "pageid": 26835,
+                "ns": 0,
+                "title": "Soul oni"
+            },
+            {
+                "pageid": 24238,
+                "ns": 0,
+                "title": "Soul skeleton"
+            },
+            {
+                "pageid": 26839,
+                "ns": 0,
+                "title": "Soul wasp"
+            },
+            {
+                "pageid": 26838,
+                "ns": 0,
+                "title": "Soul wolf"
+            },
+            {
+                "pageid": 20826,
+                "ns": 0,
+                "title": "Spear toro"
+            },
+            {
+                "pageid": 6315,
+                "ns": 0,
+                "title": "Species"
+            },
+            {
+                "pageid": 26179,
+                "ns": 0,
+                "title": "Specter"
+            },
+            {
+                "pageid": 24844,
+                "ns": 0,
+                "title": "Spiegel maiden"
+            },
+            {
+                "pageid": 25935,
+                "ns": 0,
+                "title": "Spiritual life-form"
+            },
+            {
+                "pageid": 26099,
+                "ns": 0,
+                "title": "Sprite"
+            },
+            {
+                "pageid": 25166,
+                "ns": 0,
+                "title": "Staff officer"
+            },
+            {
+                "pageid": 24240,
+                "ns": 0,
+                "title": "Star wasp"
+            },
+            {
+                "pageid": 2184,
+                "ns": 0,
+                "title": "Star wolf"
+            },
+            {
+                "pageid": 26621,
+                "ns": 0,
+                "title": "Subspecies dragon"
+            },
+            {
+                "pageid": 24601,
+                "ns": 0,
+                "title": "Surmounter"
+            },
+            {
+                "pageid": 29298,
+                "ns": 0,
+                "title": "Sword grizzly"
+            },
+            {
+                "pageid": 25916,
+                "ns": 0,
+                "title": "Sylphide"
+            },
+            {
+                "pageid": 26523,
+                "ns": 0,
+                "title": "Tailed beast"
+            },
+            {
+                "pageid": 4288,
+                "ns": 0,
+                "title": "Tempest serpent"
+            },
+            {
+                "pageid": 3537,
+                "ns": 0,
+                "title": "Tempest star wolf"
+            },
+            {
+                "pageid": 2165,
+                "ns": 0,
+                "title": "Tempest wolf"
+            },
+            {
+                "pageid": 2804,
+                "ns": 0,
+                "title": "Tengu"
+            },
+            {
+                "pageid": 29537,
+                "ns": 0,
+                "title": "Three-headed serpent"
+            },
+            {
+                "pageid": 32030,
+                "ns": 0,
+                "title": "Thunder tiger"
+            },
+            {
+                "pageid": 2176,
+                "ns": 0,
+                "title": "Treant"
+            },
+            {
+                "pageid": 24827,
+                "ns": 0,
+                "title": "Trishula"
+            },
+            {
+                "pageid": 4474,
+                "ns": 0,
+                "title": "True Dragon"
+            },
+            {
+                "pageid": 24227,
+                "ns": 0,
+                "title": "True dragonewt"
+            },
+            {
+                "pageid": 24235,
+                "ns": 0,
+                "title": "True giant"
+            },
+            {
+                "pageid": 22950,
+                "ns": 0,
+                "title": "Undead"
+            },
+            {
+                "pageid": 25914,
+                "ns": 0,
+                "title": "Undine"
+            },
+            {
+                "pageid": 21311,
+                "ns": 0,
+                "title": "Unicorn"
+            },
+            {
+                "pageid": 24819,
+                "ns": 0,
+                "title": "Vajra (ISEKAI Memories)"
+            },
+            {
+                "pageid": 4043,
+                "ns": 0,
+                "title": "Vampire"
+            },
+            {
+                "pageid": 28659,
+                "ns": 0,
+                "title": "War chimera"
+            },
+            {
+                "pageid": 25919,
+                "ns": 0,
+                "title": "War Gnome"
+            },
+            {
+                "pageid": 25946,
+                "ns": 0,
+                "title": "Water dragon"
+            },
+            {
+                "pageid": 3815,
+                "ns": 0,
+                "title": "Wicked oni"
+            },
+            {
+                "pageid": 6097,
+                "ns": 0,
+                "title": "Wight"
+            },
+            {
+                "pageid": 6096,
+                "ns": 0,
+                "title": "Wight king"
+            },
+            {
+                "pageid": 25950,
+                "ns": 0,
+                "title": "Wind dragon"
+            },
+            {
+                "pageid": 25967,
+                "ns": 0,
+                "title": "Wind dragon lord"
+            },
+            {
+                "pageid": 29538,
+                "ns": 0,
+                "title": "Winged lion"
+            },
+            {
+                "pageid": 26905,
+                "ns": 0,
+                "title": "Wyvern"
+            },
+            {
+                "pageid": 26552,
+                "ns": 0,
+                "title": "Zombie"
+            }
+        ]
+    }
+}
