@@ -4215,10 +4215,12 @@ export default function App() {
                   {rimuru.customMode ? (
                     <>
                       {/* Custom Grid Move Actions */}
-                      <button onClick={() => movePlayer(0, -1)}>[N] MOVE NORTH</button>
-                      <button onClick={() => movePlayer(0, 1)}>[S] MOVE SOUTH</button>
-                      <button onClick={() => movePlayer(1, 0)}>[E] MOVE EAST</button>
-                      <button onClick={() => movePlayer(-1, 0)}>[W] MOVE WEST</button>
+                      <div className="dpad-wrapper">
+                        <button className="dpad-btn dpad-north" onClick={() => movePlayer(0, -1)}>▲ N</button>
+                        <button className="dpad-btn dpad-west" onClick={() => movePlayer(-1, 0)}>◀ W</button>
+                        <button className="dpad-btn dpad-east" onClick={() => movePlayer(1, 0)}>E ▶</button>
+                        <button className="dpad-btn dpad-south" onClick={() => movePlayer(0, 1)}>▼ S</button>
+                      </div>
                       
                       {(() => {
                         const spawnIdx = rimuru.customSpawnIndex || 0;
@@ -4241,10 +4243,12 @@ export default function App() {
                   ) : (
                     <>
                       {/* Standard Grid Move Actions */}
-                      <button onClick={() => movePlayer(0, -1)}>[N] MOVE NORTH</button>
-                      <button onClick={() => movePlayer(0, 1)}>[S] MOVE SOUTH</button>
-                      <button onClick={() => movePlayer(1, 0)}>[E] MOVE EAST</button>
-                      <button onClick={() => movePlayer(-1, 0)}>[W] MOVE WEST</button>
+                      <div className="dpad-wrapper">
+                        <button className="dpad-btn dpad-north" onClick={() => movePlayer(0, -1)}>▲ N</button>
+                        <button className="dpad-btn dpad-west" onClick={() => movePlayer(-1, 0)}>◀ W</button>
+                        <button className="dpad-btn dpad-east" onClick={() => movePlayer(1, 0)}>E ▶</button>
+                        <button className="dpad-btn dpad-south" onClick={() => movePlayer(0, 1)}>▼ S</button>
+                      </div>
 
                   {/* Chapter specific actions triggered dynamically when objectives are met */}
                   {rimuru.chapter === 1 && rimuru.veldoraNamed && (

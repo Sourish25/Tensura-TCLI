@@ -133,3 +133,95 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 12px;
 }
+
+/* Touch and D-Pad Mobile Styling */
+.dpad-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+@media (max-width: 1024px) {
+  /* Enforce Fitts' Law 44px min touch targets */
+  button {
+    padding: 12px 18px !important;
+    font-size: 14px !important;
+    min-height: 44px !important;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  input {
+    padding: 10px 14px !important;
+    font-size: 15px !important;
+    min-height: 44px !important;
+  }
+
+  /* Transform linear move buttons into a tactile D-Pad cross */
+  .dpad-wrapper {
+    display: grid !important;
+    grid-template-areas:
+      ".     north ."
+      "west  .     east"
+      ".     south .";
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 44px);
+    gap: 8px;
+    width: 100%;
+    max-width: 240px;
+    margin: 12px auto !important;
+  }
+
+  .dpad-btn {
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+  }
+
+  .dpad-north { grid-area: north; }
+  .dpad-west { grid-area: west; }
+  .dpad-east { grid-area: east; }
+  .dpad-south { grid-area: south; }
+
+  /* Stack status grids and columns */
+  .hud-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 10px !important;
+  }
+
+  .town-grid {
+    grid-template-columns: 1fr !important;
+    gap: 10px !important;
+  }
+
+  .skills-grid {
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)) !important;
+    gap: 10px !important;
+  }
+
+  .skill-node {
+    padding: 10px 12px !important;
+    min-height: 44px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  /* Make sure terminal container fits phone viewports with no scroll overflows */
+  .terminal-container {
+    padding: 8px;
+    font-size: 13px !important;
+  }
+
+  .terminal-line {
+    font-size: 13px !important;
+  }
+
+  /* Increase padding inside panels for touch comfort */
+  .hud-panel, .town-hud, .combat-hud, .lab-container {
+    padding: 12px !important;
+  }
+}
+
